@@ -1,2 +1,2 @@
-# Reddit-Bot
-Make Morgana send you memes from twitter
+# Morgana-Reddit
+Make Morgana send you memes from Reddit
